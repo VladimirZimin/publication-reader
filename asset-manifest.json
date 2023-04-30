@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/publication-reader/static/css/main.17654e45.css",
+    "main.js": "/publication-reader/static/js/main.f71e90c8.js",
+    "index.html": "/publication-reader/index.html",
+    "main.17654e45.css.map": "/publication-reader/static/css/main.17654e45.css.map",
+    "main.f71e90c8.js.map": "/publication-reader/static/js/main.f71e90c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.f71e90c8.js"
+  ]
+}
